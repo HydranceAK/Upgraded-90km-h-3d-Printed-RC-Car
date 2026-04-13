@@ -56,3 +56,7 @@ For permissions, questions, or collaboration, contact me at:
 Email: abdusamaku@gmail.com
 
 YouTube: https://youtube.com/@HydranceYT
+<img width="924" height="407" alt="image" src="https://github.com/user-attachments/assets/bf9f76df-d462-4d12-b0d4-70dd1ea6c139" />
+<img width="479" height="809" alt="image" src="https://github.com/user-attachments/assets/31b0c610-991f-4c3b-b872-c881d86cd256" />
+<img width="1408" height="768" alt="Wiring Diagram" src="https://github.com/user-attachments/assets/8b4d8ef1-f42e-4255-8eaa-25895d7bc447" />
+
