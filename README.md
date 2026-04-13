@@ -5,6 +5,9 @@ This is my final and best version of my 3d printed RC Car series. Upgraded with 
 larger frame, more space for adjustments, and an overall polished andimproved design, this will likely be my final attempt at making the perfect 3d printed RC Car.  
 
 
+_****PROJECT STILL IN WORKS****_
+
+
 Features
 
 4WD Drivetrain
