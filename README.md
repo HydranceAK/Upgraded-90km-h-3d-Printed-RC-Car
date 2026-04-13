@@ -60,3 +60,4 @@ YouTube: https://youtube.com/@HydranceYT
 <img width="479" height="809" alt="image" src="https://github.com/user-attachments/assets/31b0c610-991f-4c3b-b872-c881d86cd256" />
 <img width="1408" height="768" alt="Wiring Diagram" src="https://github.com/user-attachments/assets/8b4d8ef1-f42e-4255-8eaa-25895d7bc447" />
 
+<img width="663" height="459" alt="image" src="https://github.com/user-attachments/assets/d402bf79-a07f-40e3-b0b1-8fb14e2b4192" />
