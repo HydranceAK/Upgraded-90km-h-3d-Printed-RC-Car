@@ -55,4 +55,3 @@ These are all the non 3d printed parts you'll need for this build:
 - https://www.amazon.ca/gp/product/B01NBOCXHE
 - $13
 
-- 
