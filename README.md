@@ -4,6 +4,8 @@ Designed and engineered by Hydrance.
 This is my final and best version of my 3d printed RC Car series. Upgraded with metal differentials, metal axles, improved suspension, 
 larger frame, more space for adjustments, and an overall polished andimproved design, this will likely be my final attempt at making the perfect 3d printed RC Car.  
 
+Im making this project because my previous build, the 60km/h RC Car, is too weak and the gears snap under high load. This makes it very annoying to drive as you need to constantly rebuild it. This new design, with the full metal drive train, should never require replacement. 
+
 
 _****PROJECT STILL IN WORKS****_
 
